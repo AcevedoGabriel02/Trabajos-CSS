@@ -1,0 +1,26 @@
+#cabecera {
+    background-color: rgb(8, 233, 203);
+    color: white;
+    text-align: center;
+    padding: 20px;
+    font-size: 30px;
+    text-decoration: underline;
+}
+
+#cuerpo {
+    background-color: rgb(255, 145, 0);
+    color: #333;
+    padding: 40px;
+    font-size: 24px;
+    text-align: justify;
+    margin: 20px;
+    text-decoration: overline;
+}
+
+#pie {
+    background-color: #bd2c2c;
+    color: #b4a5a5;
+    text-align: center;
+    padding: 15px;
+    font-size: 15px;
+}
